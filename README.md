@@ -15,15 +15,9 @@ JS / HTML / CSS
 
 - 🌱 I’m currently learning Golang, Java Script
 
-- 👨‍💻 All of my projects are available at [https://github.com/harun181](https://github.com/harun181)
+- 👨‍💻 All of my projects are available at [https://github.com/sh784690](https://github.com/sh784690)
 
-- 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
-
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
-
-- 📫 How to reach me **programmerharun@gmail.com**
-
-- 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/tutul181)
+- 📫 How to reach me **sajid.784690@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
