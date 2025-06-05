@@ -18,10 +18,8 @@ JS / HTML / CSS
 - 👨‍💻 All of my projects are available at [https://github.com/sh784690](https://github.com/sh784690)
 
 - 📫 How to reach me **sajid.784690@gmail.com**
-  
 
-
-
+<br/>
 ## Use To Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
