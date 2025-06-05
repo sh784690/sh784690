@@ -1,14 +1,14 @@
 ![I am harun181](https://github.com/harun181/harun181/blob/main/code.png)
 
-<h1 align="center">Hi 👋, I'm SHAJID</h1>
+<h1 align="center">Hi 👋, I'm SHAJID HOSSEN</h1>
 <h3 align="center">Programmer | Web Developer</h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=harun181&color=red)
+![Profile views](https://komarev.com/ghpvc/?username=sh784690&color=red)
 
-Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
+Skills: C / Java / PYTHON / 
+JS / HTML / CSS
 
 </div>
 
