@@ -20,7 +20,6 @@ JS / HTML / CSS
 - 📫 How to reach me **sajid.784690@gmail.com**
 
 <br/>
-<br/>
 
 ## Use To Code 
 
