@@ -48,12 +48,10 @@ JS / HTML / CSS
 <a> 
 <img alt="Shajid's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sh784690&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 </a>
-
 ![Shajid's Graph](https://github-readme-activity-graph.vercel.app/graph?username=sh784690&custom_title=Sajid's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 ## Connect with me
-
-
+<br/>
 <div align="center">
 <p align="center">
 <a href="https://fb.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
