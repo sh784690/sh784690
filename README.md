@@ -80,8 +80,8 @@ JS / HTML / CSS
 
 <br/>
 
-## Connect with me
-
+## Connect with me:
+<br/>
 <div align="center">
 <br/>
 <p align="center">
