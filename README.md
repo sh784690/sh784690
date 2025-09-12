@@ -8,8 +8,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=sh784690&color=blue)
 
-Skills:  C / Java / PYTHON / 
-JS / HTML / CSS
+Skills:  C / JAVA / PYTHON /  HTML / CSS / JAVA SCRIPT
 
 </div>
 
