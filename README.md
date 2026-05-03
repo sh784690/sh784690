@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋,  I'm 
 <br/>SHAJID HOSSEN</h1>
-<h3 align="center"> Web Developer | Programer</h3>
+<h3 align="center"> Web Developer | Programmer </h3>
 
 <div align="center">
 
