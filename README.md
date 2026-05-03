@@ -2,17 +2,17 @@
 
 <h1 align="center">Hi 👋,  I'm 
 <br/>SHAJID HOSSEN</h1>
-<h3 align="center">Programmer | Web Developer</h3>
+<h3 align="center"> Web Developer | Programer</h3>
 
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=sh784690&color=blue)
 
-Skills:  C / JAVA / PYTHON /  HTML / CSS / JAVA SCRIPT
+Skills: HTML / CSS / JAVA SCRIPT / JAVA / PYTHON
 
 </div>
 
-- 🌱 I’m currently learning Golang, Java Script
+- 🌱 I’m currently learning Java Script
 
 - 👨‍💻 All of my projects are available at [https://github.com/sh784690](https://github.com/sh784690)
 
