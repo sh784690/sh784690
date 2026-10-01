@@ -26,7 +26,7 @@ Skills: HTML / CSS / JAVA SCRIPT / JAVA
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 <!--![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)-->
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20s0studio&logoColor=white) <br/>
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20s0studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?sfor-the-badgebadge&logo=git&logoColor=white)
 
 <br/>
@@ -51,7 +51,7 @@ Skills: HTML / CSS / JAVA SCRIPT / JAVA
 <br/>
 <div align="center">
 <p align="center">
-<a href="https://www.facebook.com/profile.php?id=61588184540926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/imagessicons/Social/facebook.svg" height="30" width="40" /></a><br/><br/>
+<a href="https://www.facebook.com/profile.php?id=61588184540926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/imagessicons/Social/facebook.svg" height="30" width="40" /></a><br/>
 <a href="https://www.linkedin.com/in/sajid-hossen-197231372"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 </div>
