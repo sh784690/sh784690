@@ -8,11 +8,11 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=sh784690&color=blue)
 
-Skills: HTML / CSS / JAVA SCRIPT / JAVA / PYTHON
+Skills: HTML / CSS / JAVA SCRIPT / JAVA
 
 </div>
 
-- 🌱 I’m currently learning Java Script
+- 🌱 I’m currently learning Java
 
 - 👨‍💻 All of my projects are available at [https://github.com/sh784690](https://github.com/sh784690)
 
@@ -24,7 +24,7 @@ Skills: HTML / CSS / JAVA SCRIPT / JAVA / PYTHON
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<!--![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)-->
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -43,7 +43,7 @@ Skills: HTML / CSS / JAVA SCRIPT / JAVA / PYTHON
 
 ## Github Stats -
 <a><img alt="Shajid's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sh784690&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-<a>![Shajid's Graph](https://github-readme-activity-graph.vercel.app/graph?username=sh784690&custom_title=Sajid's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)</a>
+<!--<a>![Shajid's Graph](https://github-readme-activity-graph.vercel.app/graph?username=sh784690&custom_title=Sajid's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)</a>-->
 
 <br/>
 
@@ -52,7 +52,6 @@ Skills: HTML / CSS / JAVA SCRIPT / JAVA / PYTHON
 <div align="center">
 <p align="center">
 <a href="https://www.facebook.com/profile.php?id=61588184540926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a><br/>
-<a href="https://www.twitter.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a><br/>
-<a href="https://www.linkedin.com/in/sajid-hossen-197231372" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sajid-hossen-197231372"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 </div>
