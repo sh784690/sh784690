@@ -27,7 +27,7 @@ Skills: HTML / CSS / JAVA SCRIPT / JAVA
 <!--![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)-->
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20s0studio&loglogoColor=whitGit)
-![git](httpshttps://img.shields.io/badge/Git-F05032?sfor-the-badgebadge&logo=git&logoColor=white)
+![git](https://img.shields.io/badge/Git-F05032?sfor-the-badgebadge&logo=git&logoColor=white)
 
 <br/>
 
