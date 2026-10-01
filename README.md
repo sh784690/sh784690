@@ -50,7 +50,7 @@ Skills: HTML / CSS / JAVA SCRIPT / JAVA
 <br/>
 <div align="center">
 <p align="center">
-<a href="https://www.facebook.com/profile.php?id=61588184540926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/imagessicons/Social/facebook.svg" height="30" width="40" /></a></br></br>
+<a href="https://www.facebook.com/profile.php?id=61588184540926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/imagessicons/Social/facebook.svg" height="30" width="40" /></a><br/><br/>
 <a href="https://www.linkedin.com/in/sajid-hossen-197231372"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 </div>
