@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<!--![Profile views](https://komarev.com/ghpvc/?username=sh784690&color=blue)-->
+![Profile views](https://komarev.com/ghpvc/?username=sh784690&color=blue)
 
 Skills: HTML / CSS / JAVA SCRIPT / JAVA 
 
@@ -26,7 +26,7 @@ Skills: HTML / CSS / JAVA SCRIPT / JAVA
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 <!--![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)-->
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20s0studio&loglogoColor=whitGit!https://img.shields.io/badge/Git-F05032?sfor-the-badgebadge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20s0studio&loglogoColor=whitGit![https://img.shields.io/badge/Git-F05032?sfor-the-badgebadge&logo=git&logoColor=white)
 
 <br/>
 
