@@ -12,7 +12,7 @@ Skills: HTML / CSS / JAVA SCRIPT / JAVA
 
 </div>
 
-- 🌱 I’m currently learning Golang, Java 
+- 🌱 I’m currently learning Backend
 
 - 👨‍💻 All of my projects are available at [https://github.com/sh784690](https://github.com/sh784690)
 
